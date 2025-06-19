@@ -1,0 +1,13 @@
+/membros-vip-pro-ultimate/
+|
+|-- membros-vip-pro-ultimate.php     (Arquivo 1: O Carregador Principal)
+|
+|-- /includes/
+    |
+    |-- class-mvpu-cpt.php                 (Arquivo 2: Gerencia os Post Types)
+    |-- class-mvpu-settings.php            (Arquivo 3: Página de Configurações)
+    |-- class-mvpu-user-profile.php        (Arquivo 4: Gerencia o Perfil do Usuário)
+    |-- class-mvpu-invitations.php         (Arquivo 5: Convites, Registro e Expiração)
+    |-- class-mvpu-content-restriction.php (Arquivo 6: Restrição de Conteúdo e Drip)
+    |-- class-mvpu-file-access.php         (Arquivo 7: Acesso Seguro a Arquivos)
+    |-- class-mvpu-widget-control.php      (Arquivo 8: Controle de Visibilidade de Widgets)
